@@ -1,1 +1,3 @@
-# leaflet-challenge
+# leaflet-challenge 
+
+I chose to look at the USGS data for earthquakes across the world with a magnitude of 2.5 and higher over the past 7 days. I was able to create a map in Leaflet that plotted all the earthquakes based on latitude and longitude. The data markers show the magnitude of the earthquakes by size and the depth of the earthquakes by color. The color ranges from light blue to dark blue, the darkest color are the earthquakes with the greatest depth. Markers include popups when clicked on the display information about magnitude and location. A legend is shown in the bottom right corner displaying the corresponding colors for the depth of the earthquakes broken down into categories 10-30, 30-50, 50-70, 70-90, and 90+.
